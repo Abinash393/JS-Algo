@@ -1,8 +1,6 @@
-### stack
+### Stack
 
-- stack is a linier data structure
-
-- Last In First Out (LIFO)
+- stack is a linier data structure. Last In First Out (LIFO)
 
 - push method add an element to stack and returns length of stack
 
